@@ -1,4 +1,3 @@
-# PRODIGY_ML_02
 Customer Segmentation using K-Means Clustering
 📌 Project Overview
 This project applies K-Means Clustering to segment customers of a retail store based on their purchase behavior. By analyzing spending patterns and annual income, we can group customers into meaningful clusters, helping businesses personalize marketing strategies and improve customer engagement.
